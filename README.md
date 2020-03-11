@@ -1,0 +1,2 @@
+# DecredJournalSPA
+Decred Spanish Journal
