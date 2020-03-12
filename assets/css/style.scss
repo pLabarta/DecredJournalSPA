@@ -4,11 +4,11 @@
 @import "{{ site.theme }}";
 
 html {
-    direction: rtl;
+    direction: ltr;
 }
 
 .page-header {
-padding: 0.5rem 1rem;
+padding: 1rem;
 }
 
 .project-tagline {
