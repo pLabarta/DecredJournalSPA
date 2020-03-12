@@ -3,10 +3,6 @@
 
 @import "{{ site.theme }}";
 
-html {
-    direction: ltr;
-}
-
 .page-header {
 padding: 1rem;
 }
@@ -15,6 +11,3 @@ padding: 1rem;
 margin-bottom: 0.6rem;
 }
 
-.site-footer {
-    direction: ltr;
-}
